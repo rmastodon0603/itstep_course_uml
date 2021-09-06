@@ -1,64 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T07:20:18.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="oAxnRwI_y1QN5yzxMwPq" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-06T07:39:18.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="NBxCjZXX4PArAy2TRO2s" version="15.0.6" type="github">
   <diagram id="YoVFoVs4cnLhwHAzHCMd" name="Page-1">
-    <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f9JNiIU1-5spY-_hkOcV-22" value="Smartphone" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" parent="1" vertex="1">
-          <mxGeometry x="30" y="30" width="330" height="450" as="geometry">
+          <mxGeometry x="30" y="30" width="350" height="530" as="geometry">
             <mxRectangle x="30" y="30" width="100" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-23" value="- series: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="26" width="330" height="26" as="geometry" />
+          <mxGeometry y="26" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-24" value="- modelName: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="52" width="330" height="26" as="geometry" />
+          <mxGeometry y="52" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-25" value="- sizePhone: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="78" width="330" height="26" as="geometry" />
+          <mxGeometry y="78" width="350" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="qijc69F1B3nbMW5vbkRB-2" value="- appList: String [appName..*] = [&quot;Telephone&quot;, &quot;Settings&quot;]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" vertex="1" parent="f9JNiIU1-5spY-_hkOcV-22">
-          <mxGeometry y="104" width="330" height="26" as="geometry" />
+        <mxCell id="qijc69F1B3nbMW5vbkRB-2" value="- appList: String [appName..*] = [&quot;Telephone&quot;, &quot;Settings&quot;, &#xa;&quot;Messages&quot;]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" vertex="1" parent="f9JNiIU1-5spY-_hkOcV-22">
+          <mxGeometry y="104" width="350" height="46" as="geometry" />
         </mxCell>
         <mxCell id="qijc69F1B3nbMW5vbkRB-4" value="- charge: Int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#5C5C5C;" vertex="1" parent="f9JNiIU1-5spY-_hkOcV-22">
-          <mxGeometry y="130" width="330" height="26" as="geometry" />
+          <mxGeometry y="150" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-26" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#006658;fontColor=#5C5C5C;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="156" width="330" height="8" as="geometry" />
+          <mxGeometry y="176" width="350" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="f9JNiIU1-5spY-_hkOcV-27" value="+ Call(String, String)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="164" width="330" height="26" as="geometry" />
+        <mxCell id="f9JNiIU1-5spY-_hkOcV-27" value="+ Call(String)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
+          <mxGeometry y="192" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-28" value="+ Unblock(Boolean)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="190" width="330" height="26" as="geometry" />
+          <mxGeometry y="218" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-29" value="+ OpenApp(String)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="216" width="330" height="26" as="geometry" />
+          <mxGeometry y="244" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-30" value="+ DeleteApp(String)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="242" width="330" height="26" as="geometry" />
+          <mxGeometry y="270" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qijc69F1B3nbMW5vbkRB-7" value="+ SendSMS(String, Text)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="f9JNiIU1-5spY-_hkOcV-22">
+          <mxGeometry y="296" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="qijc69F1B3nbMW5vbkRB-8" value="+ ShowNotification(String, String, Time)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="f9JNiIU1-5spY-_hkOcV-22">
+          <mxGeometry y="322" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-32" value="+ getCalledTelephone(): String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="268" width="330" height="26" as="geometry" />
+          <mxGeometry y="348" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qijc69F1B3nbMW5vbkRB-6" value="+ getCharge(): Int " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="f9JNiIU1-5spY-_hkOcV-22">
-          <mxGeometry y="294" width="330" height="26" as="geometry" />
+          <mxGeometry y="374" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-33" value="+ getTelephoneNumber(): String&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="320" width="330" height="26" as="geometry" />
+          <mxGeometry y="400" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qijc69F1B3nbMW5vbkRB-1" value="+ getScreenStatus(): Boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="f9JNiIU1-5spY-_hkOcV-22">
-          <mxGeometry y="346" width="330" height="26" as="geometry" />
+          <mxGeometry y="426" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="f9JNiIU1-5spY-_hkOcV-31" value="+ getAppName(): String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="f9JNiIU1-5spY-_hkOcV-22" vertex="1">
-          <mxGeometry y="372" width="330" height="26" as="geometry" />
+          <mxGeometry y="452" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qijc69F1B3nbMW5vbkRB-3" value="+ getAppName(): String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="f9JNiIU1-5spY-_hkOcV-22">
-          <mxGeometry y="398" width="330" height="26" as="geometry" />
+          <mxGeometry y="478" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="qijc69F1B3nbMW5vbkRB-5" value="+ setCharge(Int): void&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="f9JNiIU1-5spY-_hkOcV-22">
-          <mxGeometry y="424" width="330" height="26" as="geometry" />
+          <mxGeometry y="504" width="350" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
