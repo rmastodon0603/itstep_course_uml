@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T08:10:44.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="l9okU3Zud3hoELVzIyLF" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:11:27.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="9Ik5UXBwAr1pp2FiUFku" version="15.1.4" type="github">
   <diagram id="ZpjY_Gj4AWfl1fo95YRg" name="Page-1">
     <mxGraphModel dx="2076" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="VpLg8UFLuxDqI-5-RJF_-1" value="Пользователь &lt;br&gt;фотоаппарата" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="30" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VpLg8UFLuxDqI-5-RJF_-3" value="Фотоаппарат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VpLg8UFLuxDqI-5-RJF_-3" value="Фотоаппарат" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VpLg8UFLuxDqI-5-RJF_-4" value="Дисплей фотоаппарата" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VpLg8UFLuxDqI-5-RJF_-4" value="Дисплей фотоаппарата" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="390" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpLg8UFLuxDqI-5-RJF_-5" value="" style="endArrow=none;dashed=1;html=1;startArrow=none;" edge="1" parent="1" source="VpLg8UFLuxDqI-5-RJF_-8">
@@ -57,7 +57,7 @@
             <mxPoint x="270" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VpLg8UFLuxDqI-5-RJF_-14" value="Память фотоаппарата" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VpLg8UFLuxDqI-5-RJF_-14" value="Память фотоаппарата" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="560" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VpLg8UFLuxDqI-5-RJF_-15" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="VpLg8UFLuxDqI-5-RJF_-14">
