@@ -1,9 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:42:29.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="KpgT-FxxyF1rXiAMy7fw" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:49:29.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="vdMDRYgOgUqiZ_IL4UmS" version="15.1.4" type="github">
   <diagram id="u6vn89Q6pDuSqbfzB-kp" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Up6CJ4-sGrz-HfyM8izz-1" target="Up6CJ4-sGrz-HfyM8izz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="Up6CJ4-sGrz-HfyM8izz-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1205" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-4" value="Присутствие в разделе &quot;Домашние задания&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="120" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-6" value="Не добавлена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up6CJ4-sGrz-HfyM8izz-7" target="Up6CJ4-sGrz-HfyM8izz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-7" value="Добавлена" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up6CJ4-sGrz-HfyM8izz-12" target="Up6CJ4-sGrz-HfyM8izz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Up6CJ4-sGrz-HfyM8izz-12" target="Up6CJ4-sGrz-HfyM8izz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Up6CJ4-sGrz-HfyM8izz-12" target="Up6CJ4-sGrz-HfyM8izz-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-12" value="Скачана студентом" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-14" value="Ошибка залития домашнего задания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-15" value="Ошибка формата залития домашнего задания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Up6CJ4-sGrz-HfyM8izz-16" target="Up6CJ4-sGrz-HfyM8izz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-16" value="Отправленная сделанная домашка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-21" value="Отправлен файл форматом не архива" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="270" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-22" value="Отправлен файл, но майстат залагал" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="270" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-26" value="Не присутствует в разделе &quot;Домашние задания&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="965" y="100" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-27" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="490" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Up6CJ4-sGrz-HfyM8izz-29" value="Отправлен файл нужного формата и размера" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="350" width="180" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
