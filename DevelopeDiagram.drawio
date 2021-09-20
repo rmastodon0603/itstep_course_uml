@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T07:54:19.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="p6KgNn8CW516zjwNo2lZ" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T07:59:01.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="mrPUBSqgIBzXb9F_o6Ww" version="15.2.9" type="github">
   <diagram id="0nR0uttV4MndEjATPhOo" name="Page-1">
     <mxGraphModel dx="1730" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
@@ -756,10 +756,10 @@
         <mxCell id="zYfwoduhDEaQW3o6yKo4-307" value="Планирование&lt;br&gt;структуры БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1231" y="820" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zYfwoduhDEaQW3o6yKo4-315" value="Создание БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zYfwoduhDEaQW3o6yKo4-315" value="Создание таблиц в БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1351" y="820" width="99" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zYfwoduhDEaQW3o6yKo4-317" value="Тесты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zYfwoduhDEaQW3o6yKo4-317" value="Занесение правил в БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="820" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="zYfwoduhDEaQW3o6yKo4-323" value="" style="endArrow=none;html=1;" edge="1" parent="1">
@@ -780,8 +780,8 @@
             <mxPoint x="1701" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zYfwoduhDEaQW3o6yKo4-326" value="Доработка багов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="820" width="100" height="180" as="geometry" />
+        <mxCell id="zYfwoduhDEaQW3o6yKo4-326" value="Занесение дефолтных данных в БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="820" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zYfwoduhDEaQW3o6yKo4-327" value="Веб - система &quot;Менеджер&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="2050" y="730" width="240" height="40" as="geometry" />
@@ -923,6 +923,9 @@
             <mxPoint x="2521.18" y="770" as="sourcePoint" />
             <mxPoint x="2641.18" y="770" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zYfwoduhDEaQW3o6yKo4-368" value="Описание схемы БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1231" y="900" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
