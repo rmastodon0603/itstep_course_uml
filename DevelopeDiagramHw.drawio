@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T21:18:15.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="v8eXeqDI3SK5sxiY3mVD" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T21:20:27.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="9Pf-_TFvpPE5DuqRPKls" version="15.2.9" type="github">
   <diagram id="SRR18vFyuS79b38dpdjN" name="Page-1">
-    <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1685,7 +1685,7 @@
         <mxCell id="bMxVrgbbZebOmnBE3g3T-383" value="Тестирование функциональности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bMxVrgbbZebOmnBE3g3T-384" value="Тест на нагрузку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-384" value="Доработка багов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458.86" y="1360" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bMxVrgbbZebOmnBE3g3T-385" value="Сбор требований" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1700,7 +1700,7 @@
         <mxCell id="bMxVrgbbZebOmnBE3g3T-388" value="Тестирование функциональности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="918.86" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bMxVrgbbZebOmnBE3g3T-389" value="Тест на нагрузку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-389" value="Доработка багов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="937.72" y="1360" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bMxVrgbbZebOmnBE3g3T-390" value="Дизайн элементов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1715,7 +1715,7 @@
         <mxCell id="bMxVrgbbZebOmnBE3g3T-393" value="Тестирование функциональности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1398.8600000000001" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bMxVrgbbZebOmnBE3g3T-394" value="Тест на нагрузку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-394" value="Доработка багов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1417.72" y="1370" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bMxVrgbbZebOmnBE3g3T-395" value="Сбор требований по безопасности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1732,6 +1732,33 @@
         </mxCell>
         <mxCell id="bMxVrgbbZebOmnBE3g3T-401" value="Создание монитора безопасности операций внутри банка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2130" y="1280" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-402" value="Тестирование различных ситуаций мошенничества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2378.86" y="1320" width="191.14" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-403" value="Доработка багов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2613.86" y="1315" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-404" value="Дизайн элементов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2737.8" y="1275" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-405" value="Сбор требований" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2737.8" y="1375" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-406" value="Разработка саппорт менеджера" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2847.8" y="1275" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-409" value="Тест функциональности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-410" value="Разработка дизайн" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3098.86" y="1370" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-411" value="Создание дешбоарда аналитики банка" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3218.86" y="1280" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxVrgbbZebOmnBE3g3T-412" value="Деплой" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3339.15" y="1280" width="80" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
