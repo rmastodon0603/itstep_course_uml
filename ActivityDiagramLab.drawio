@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T06:38:03.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="MBGUiNiUrLZZJn4kYEd-" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T06:40:09.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Q-g-32s9ub__ufjE3dWp" version="15.3.4" type="github">
   <diagram id="MO2Bvyn2_-JSokNNpkE6" name="Page-1">
-    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,8 +43,41 @@
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-11" value="Просьба выставить температуру от 16 до 26 градусов" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-13" target="xLc4NqqJEeSbFSuvH_Aq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-13" value="Включение климат контроля на выставленную температуру" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="145" y="600" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-17" target="xLc4NqqJEeSbFSuvH_Aq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-21" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-17" target="xLc4NqqJEeSbFSuvH_Aq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-17" value="Текущая температура = комнатной?" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="720" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-18" target="xLc4NqqJEeSbFSuvH_Aq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-18" value="Да" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-19" value="Работа кондиционера с целью получения нужной температуры в комнате" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="970" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-22" value="Продолжение работы климат контроля" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="985" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-25" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="990" as="sourcePoint" />
+            <mxPoint x="130" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="910" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
