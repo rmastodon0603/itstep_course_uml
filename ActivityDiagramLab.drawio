@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T07:08:51.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Kcr-pV4PDRWhaV5j16pL" version="15.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T07:11:39.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Ecz5dwE35h13HDEu0g4E" version="15.3.4" type="github">
   <diagram id="MO2Bvyn2_-JSokNNpkE6" name="Page-1">
-    <mxGraphModel dx="1221" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="3000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,9 +163,6 @@
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-51" value="Нет" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="2180" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-61" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-53" target="xLc4NqqJEeSbFSuvH_Aq-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-53" value="Включение на пульте режима &quot;Охлождение&quot;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="1760" y="480" width="120" height="60" as="geometry" />
         </mxCell>
@@ -176,22 +173,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-56" value="Есть сохраненная желаемая температура охлаждения?" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="580" width="160" height="160" as="geometry" />
+          <mxGeometry x="1740" y="690" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-57" value="Да" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="1590" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-64" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-58" target="xLc4NqqJEeSbFSuvH_Aq-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-58" value="Нет" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="1970" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-66" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-63" target="xLc4NqqJEeSbFSuvH_Aq-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-63" value="Просьба выставить желаемую температуру с помощью клавиш на пульте" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="740" width="120" height="110" as="geometry" />
+          <mxGeometry x="1970" y="850" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-69" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-65" target="xLc4NqqJEeSbFSuvH_Aq-67">
           <mxGeometry relative="1" as="geometry" />
@@ -200,29 +197,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-65" value="Температура выставлена на пульте больше или равно 16 или меньше или равно 26?" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1945" y="900" width="170" height="170" as="geometry" />
+          <mxGeometry x="1945" y="1010" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-73" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-67" target="xLc4NqqJEeSbFSuvH_Aq-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-67" value="Да" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="955" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="1065" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-68" value="Нет" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2180" y="955" width="120" height="60" as="geometry" />
+          <mxGeometry x="2180" y="1065" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-78" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-72" target="xLc4NqqJEeSbFSuvH_Aq-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-72" value="Запись сохраненной температуры" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="955" width="120" height="60" as="geometry" />
+          <mxGeometry x="1590" y="1065" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-76" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-68" target="xLc4NqqJEeSbFSuvH_Aq-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2060" y="1020" as="sourcePoint" />
-            <mxPoint x="2110" y="970" as="targetPoint" />
+            <mxPoint x="2060" y="1130" as="sourcePoint" />
+            <mxPoint x="2110" y="1080" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2240" y="795" />
+              <mxPoint x="2240" y="905" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -230,7 +227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-77" value="Включение режима &quot;Охлаждения&quot;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="1590" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-80" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-82" target="xLc4NqqJEeSbFSuvH_Aq-84">
           <mxGeometry relative="1" as="geometry" />
@@ -250,7 +247,7 @@
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-85" value="Нет" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="3010" y="365" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-86" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-87" target="xLc4NqqJEeSbFSuvH_Aq-90">
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-108" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-87" target="xLc4NqqJEeSbFSuvH_Aq-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-87" value="Включение на пульте режима &quot;Обогрев&quot;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
@@ -263,22 +260,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-90" value="Есть сохраненная желаемая температура обогрева?" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="595" width="160" height="160" as="geometry" />
+          <mxGeometry x="2560" y="710" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-91" value="Да" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="715" width="120" height="60" as="geometry" />
+          <mxGeometry x="2410" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-92" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-93" target="xLc4NqqJEeSbFSuvH_Aq-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-93" value="Нет" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="645" width="120" height="60" as="geometry" />
+          <mxGeometry x="2790" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-94" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-95" target="xLc4NqqJEeSbFSuvH_Aq-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-95" value="Просьба выставить желаемую температуру с помощью клавиш на пульте" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="755" width="120" height="110" as="geometry" />
+          <mxGeometry x="2790" y="870" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-96" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-98" target="xLc4NqqJEeSbFSuvH_Aq-100">
           <mxGeometry relative="1" as="geometry" />
@@ -287,29 +284,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-98" value="Температура выставлена на пульте больше или равно 16 или меньше или равно 26?" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2775" y="915" width="170" height="170" as="geometry" />
+          <mxGeometry x="2765" y="1030" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-99" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-100" target="xLc4NqqJEeSbFSuvH_Aq-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-100" value="Да" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2590" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="2580" y="1085" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-101" value="Нет" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="3000" y="1085" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-102" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-103" target="xLc4NqqJEeSbFSuvH_Aq-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-103" value="Запись сохраненной температуры" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="2410" y="1085" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-104" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-101" target="xLc4NqqJEeSbFSuvH_Aq-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2890" y="1035" as="sourcePoint" />
-            <mxPoint x="2940" y="985" as="targetPoint" />
+            <mxPoint x="2880" y="1150" as="sourcePoint" />
+            <mxPoint x="2930" y="1100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3070" y="810" />
+              <mxPoint x="3060" y="925" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -317,7 +314,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xLc4NqqJEeSbFSuvH_Aq-106" value="Включение режима &quot;Обогрев&quot;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="2420" y="855" width="120" height="60" as="geometry" />
+          <mxGeometry x="2410" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-107" value="Выключение режима &quot;Охлаждение&quot;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-109" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-107" target="xLc4NqqJEeSbFSuvH_Aq-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2500" y="850" as="sourcePoint" />
+            <mxPoint x="2550" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-111" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="xLc4NqqJEeSbFSuvH_Aq-110" target="xLc4NqqJEeSbFSuvH_Aq-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xLc4NqqJEeSbFSuvH_Aq-110" value="Выключение режима &quot;Обогрев&quot;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
