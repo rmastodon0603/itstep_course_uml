@@ -1,23 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T22:21:14.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8P0kH25W7kLaLh1DqDFp" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T22:24:51.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SYucD7uaSJOOvxmp-Txa" version="16.1.0" type="github">
   <diagram id="Zabfdb-KgrGdixhPXFSD" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZJZWuPmtrQBKDbAir733-1" value="Main Function - Buy / Sell in NFT Marketplace" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="950" height="420" as="geometry" />
+          <mxGeometry x="40" y="140" width="950" height="480" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-2" value="Buyer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-1">
           <mxGeometry y="20" width="950" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-3" value="Creator - seller&lt;br&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-1">
-          <mxGeometry y="140" width="950" height="120" as="geometry" />
+          <mxGeometry y="140" width="950" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZJZWuPmtrQBKDbAir733-3" source="ZJZWuPmtrQBKDbAir733-6" target="ZJZWuPmtrQBKDbAir733-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-6" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-3">
+          <mxGeometry x="40" y="65" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZJZWuPmtrQBKDbAir733-3" source="ZJZWuPmtrQBKDbAir733-7" target="ZJZWuPmtrQBKDbAir733-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-7" value="Создает NFT товар в платформе" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-3">
+          <mxGeometry x="150" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-8" value="Ожидает проверки выложенного&lt;br&gt;им NFT товара" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-3">
+          <mxGeometry x="360" y="65" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-4" value="Marketplace - admin" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-1">
-          <mxGeometry y="260" width="950" height="160" as="geometry" />
+          <mxGeometry y="320" width="950" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-11" value="Проверяет выложенный товар пользователя" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-4">
+          <mxGeometry x="290" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-12" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZJZWuPmtrQBKDbAir733-1" source="ZJZWuPmtrQBKDbAir733-7" target="ZJZWuPmtrQBKDbAir733-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="520" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-5" value="&lt;h1&gt;Основные требования&lt;/h1&gt;&lt;p&gt;Пользователи - Buyer и Creator - seller имеют роль &quot;Зарегистрированный пользователь с NFT Wallet&quot;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-13" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZJZWuPmtrQBKDbAir733-15">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="700" as="sourcePoint" />
+            <mxPoint x="250" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="510" />
+              <mxPoint x="300" y="690" />
+              <mxPoint x="230" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-15" value="" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="660" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-16" value="Создан товар со статусом &quot;На рассмотрении" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;size=15;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="40" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
