@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T18:19:46.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="H6IH0Cyk9vW1nmDvx-0e" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T18:20:37.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="U8VifEd_FAI7QtWFgL6B" version="15.6.8" type="github">
   <diagram id="O-zgxkhuF86XaZGlBdF5" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="10" width="850" height="350" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-4" value="Задание" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="380" width="960" height="930" as="geometry" />
+          <mxGeometry x="30" y="380" width="960" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-5" value="Сотрудник" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
           <mxGeometry y="20" width="960" height="170" as="geometry" />
@@ -26,21 +26,26 @@
           <mxGeometry x="350" y="50" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-6" value="Менеджер" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="190" width="960" height="120" as="geometry" />
+          <mxGeometry y="190" width="960" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-15" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;" vertex="1" parent="EDIQIQE1em6awb2lxte_-6">
+          <mxGeometry x="345" y="120" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-7" value="Сотрудник отдела закупок" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="310" width="960" height="310" as="geometry" />
+          <mxGeometry y="460" width="960" height="310" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-8" value="Кладовщик" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="620" width="960" height="310" as="geometry" />
+          <mxGeometry y="770" width="960" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="EDIQIQE1em6awb2lxte_-13" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EDIQIQE1em6awb2lxte_-10">
+        <mxCell id="EDIQIQE1em6awb2lxte_-13" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="EDIQIQE1em6awb2lxte_-4" source="EDIQIQE1em6awb2lxte_-10" target="EDIQIQE1em6awb2lxte_-15">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="380" y="570" as="sourcePoint" />
-            <mxPoint x="410" y="620" as="targetPoint" />
+            <mxPoint x="350" y="190" as="sourcePoint" />
+            <mxPoint x="370" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="530" />
-              <mxPoint x="410" y="550" />
+              <mxPoint x="320" y="300" />
+              <mxPoint x="320" y="180" />
+              <mxPoint x="340" y="150" />
+              <mxPoint x="380" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
