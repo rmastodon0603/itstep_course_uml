@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T22:35:02.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="NyZSx447nQtzKPCI0psp" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T23:27:29.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uI86Cpg9HV9mZZCK_z1c" version="16.1.0" type="github">
   <diagram id="Zabfdb-KgrGdixhPXFSD" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZJZWuPmtrQBKDbAir733-1" value="Main Function - Buy / Sell in NFT Marketplace" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="1530" height="640" as="geometry" />
+          <mxGeometry x="40" y="140" width="1940" height="640" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-2" value="Buyer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-1">
-          <mxGeometry y="20" width="1530" height="190" as="geometry" />
+          <mxGeometry y="20" width="1940" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZJZWuPmtrQBKDbAir733-2" source="ZJZWuPmtrQBKDbAir733-40" target="ZJZWuPmtrQBKDbAir733-41">
           <mxGeometry relative="1" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="1260" y="55" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-3" value="Creator - seller&lt;br&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-1">
-          <mxGeometry y="210" width="1530" height="180" as="geometry" />
+          <mxGeometry y="210" width="1940" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZJZWuPmtrQBKDbAir733-3" source="ZJZWuPmtrQBKDbAir733-6" target="ZJZWuPmtrQBKDbAir733-7">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="1010" y="65" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-4" value="Marketplace - admin" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-1">
-          <mxGeometry y="390" width="1530" height="250" as="geometry" />
+          <mxGeometry y="390" width="1940" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZJZWuPmtrQBKDbAir733-4" source="ZJZWuPmtrQBKDbAir733-11" target="ZJZWuPmtrQBKDbAir733-17">
           <mxGeometry relative="1" as="geometry" />
