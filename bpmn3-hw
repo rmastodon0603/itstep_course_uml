@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T18:29:12.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3rSA_gjlAgFlv3M4kC8Y" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T18:30:25.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="J6S7c32xkwMNAp8DQXbx" version="15.6.8" type="github">
   <diagram id="O-zgxkhuF86XaZGlBdF5" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="10" y="10" width="850" height="350" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-4" value="Задание" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="380" width="1370" height="1260" as="geometry" />
+          <mxGeometry x="40" y="380" width="1800" height="1260" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-5" value="Сотрудник" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="20" width="1370" height="170" as="geometry" />
+          <mxGeometry y="20" width="1800" height="170" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDIQIQE1em6awb2lxte_-5" source="EDIQIQE1em6awb2lxte_-9" target="EDIQIQE1em6awb2lxte_-10">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="340" y="55" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-6" value="Менеджер" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="190" width="1370" height="450" as="geometry" />
+          <mxGeometry y="190" width="1800" height="450" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDIQIQE1em6awb2lxte_-6" source="EDIQIQE1em6awb2lxte_-18" target="EDIQIQE1em6awb2lxte_-22">
           <mxGeometry relative="1" as="geometry" />
@@ -97,7 +97,10 @@
         <mxCell id="EDIQIQE1em6awb2lxte_-55" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;" vertex="1" parent="EDIQIQE1em6awb2lxte_-6">
           <mxGeometry x="795" y="130" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EDIQIQE1em6awb2lxte_-57" value="Заявка составлена верно" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;" vertex="1" parent="EDIQIQE1em6awb2lxte_-6">
+        <mxCell id="EDIQIQE1em6awb2lxte_-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDIQIQE1em6awb2lxte_-6" source="EDIQIQE1em6awb2lxte_-57" target="EDIQIQE1em6awb2lxte_-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-57" value="Заявка составлена верно&lt;br&gt;Заявка подтверждена" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;" vertex="1" parent="EDIQIQE1em6awb2lxte_-6">
           <mxGeometry x="890" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDIQIQE1em6awb2lxte_-6" source="EDIQIQE1em6awb2lxte_-58" target="EDIQIQE1em6awb2lxte_-61">
@@ -109,11 +112,14 @@
         <mxCell id="EDIQIQE1em6awb2lxte_-61" value="Запрос сотруднику&lt;br&gt;на исправление заявки" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="EDIQIQE1em6awb2lxte_-6">
           <mxGeometry x="1080" y="180" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-115" value="Отправка увдеомления сотруднику&lt;br&gt;на утверждение заявки" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="EDIQIQE1em6awb2lxte_-6">
+          <mxGeometry x="1080" y="40" width="50" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-7" value="Сотрудник отдела закупок" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="640" width="1370" height="310" as="geometry" />
+          <mxGeometry y="640" width="1800" height="310" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-8" value="Кладовщик" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="950" width="1370" height="310" as="geometry" />
+          <mxGeometry y="950" width="1800" height="310" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-20" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EDIQIQE1em6awb2lxte_-4" source="EDIQIQE1em6awb2lxte_-10" target="EDIQIQE1em6awb2lxte_-19">
           <mxGeometry width="160" relative="1" as="geometry">
