@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T16:45:33.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9IlcUXlxLPU9N9FTR9CQ" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T16:46:02.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="AYiDYgx_kVuwRx2h1bqi" version="15.6.8" type="github">
   <diagram id="M4Reu8gBly-uSzF3nyhs" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -108,8 +108,20 @@
         <mxCell id="384v3MKugvlHrnDzXGjQ-39" value="Получает сообщение об отказе" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=message;" vertex="1" parent="384v3MKugvlHrnDzXGjQ-4">
           <mxGeometry x="660" y="120" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="384v3MKugvlHrnDzXGjQ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="384v3MKugvlHrnDzXGjQ-4" source="384v3MKugvlHrnDzXGjQ-63" target="384v3MKugvlHrnDzXGjQ-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="384v3MKugvlHrnDzXGjQ-63" value="Пришло подтверждение о заказе" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;" vertex="1" parent="384v3MKugvlHrnDzXGjQ-4">
           <mxGeometry x="1030" y="45" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="384v3MKugvlHrnDzXGjQ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="384v3MKugvlHrnDzXGjQ-4" source="384v3MKugvlHrnDzXGjQ-66" target="384v3MKugvlHrnDzXGjQ-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="384v3MKugvlHrnDzXGjQ-66" value="Обработка заказа  в обычном режиме" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="384v3MKugvlHrnDzXGjQ-4">
+          <mxGeometry x="995" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="384v3MKugvlHrnDzXGjQ-68" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="384v3MKugvlHrnDzXGjQ-4">
+          <mxGeometry x="1170" y="155" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="384v3MKugvlHrnDzXGjQ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="384v3MKugvlHrnDzXGjQ-2" source="384v3MKugvlHrnDzXGjQ-30" target="384v3MKugvlHrnDzXGjQ-29">
           <mxGeometry relative="1" as="geometry">
