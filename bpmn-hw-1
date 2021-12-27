@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T16:00:37.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UKAYeHGibzQ4rRnw_tt7" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T16:07:47.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cOvBpWVPfQlZzlPsu3fz" version="15.6.8" type="github">
   <diagram id="MAj4GrYh7xTMqOGUC6zP" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -6,6 +6,18 @@
         <mxCell id="1" parent="0" />
         <mxCell id="i8-icV_-v8KIirU5_4q5-1" value="&lt;span style=&quot;color: rgb(41 , 49 , 63) ; font-family: &amp;#34;segoe ui&amp;#34; ; font-size: 18px ; font-style: italic ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;1. Пассажир подходит к стойке регистрации и дает билет на проверку &lt;br&gt;2. Агент проверяет бронирование &lt;br&gt;3. Агент проверяет зарегистрированный багаж. &lt;br&gt;4. Агент распечатывает багажную квитанцию. &lt;br&gt;5. Распечатать посадочный талон. &lt;br&gt;6. Агент выдает пассажиру все проездные документы. &lt;br&gt;7. Пассажир получает документы и проходит на посадку в самолет&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="40" width="770" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="i8-icV_-v8KIirU5_4q5-2" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="200" width="480" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="i8-icV_-v8KIirU5_4q5-3" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="i8-icV_-v8KIirU5_4q5-2">
+          <mxGeometry y="20" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="i8-icV_-v8KIirU5_4q5-4" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="i8-icV_-v8KIirU5_4q5-2">
+          <mxGeometry y="140" width="480" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="i8-icV_-v8KIirU5_4q5-5" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="i8-icV_-v8KIirU5_4q5-2">
+          <mxGeometry y="260" width="480" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
