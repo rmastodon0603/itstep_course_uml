@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T23:27:29.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uI86Cpg9HV9mZZCK_z1c" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T23:27:49.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="5mqCpyYTq0OtmjdTqQcm" version="16.1.0" type="github">
   <diagram id="Zabfdb-KgrGdixhPXFSD" name="Page-1">
-    <mxGraphModel dx="1778" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,14 @@
         <mxCell id="ZJZWuPmtrQBKDbAir733-40" value="Находит товар создателя на платформе" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-2">
           <mxGeometry x="1080" y="55" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZJZWuPmtrQBKDbAir733-2" source="ZJZWuPmtrQBKDbAir733-41" target="ZJZWuPmtrQBKDbAir733-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-41" value="Заходит на его продуктовую карточку" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-2">
           <mxGeometry x="1260" y="55" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJZWuPmtrQBKDbAir733-43" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-2">
+          <mxGeometry x="1420" y="70" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZJZWuPmtrQBKDbAir733-3" value="Creator - seller&lt;br&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ZJZWuPmtrQBKDbAir733-1">
           <mxGeometry y="210" width="1940" height="180" as="geometry" />
