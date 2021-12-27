@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-12-27T18:39:26.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="AOEA3nWOjQrq-mcNR9LV" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-27T18:41:27.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="udQ0mjPwffG0Bc2ok6C8" version="15.6.8" type="github">
   <diagram id="O-zgxkhuF86XaZGlBdF5" name="Page-1">
     <mxGraphModel dx="1673" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EDIQIQE1em6awb2lxte_-3" value="&lt;h1&gt;Задание&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. Бизнес-процесс в компании выстроен так: &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;2. Сотрудник на портале сотрудника заполняет заявку на потребность, где указывает номенклатуру и необходимое ему количество товара. &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;3. Данная заявка проверяется Менеджером. &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;4. Если Менеджером за 4 часа заявку не взята в работу то в системе она становится приоритетной &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;5. Если Менеджером за 8 часов заявку не взята в работу то отправляется Емейл Супервайсеру менеджера о задержках в обработке Заявок. &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;6. Если Заявка считается не верно составленной то идет запрос Сотруднику на исправление Заявки &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;7. Если заявку подтверждена, Сотрудник получает уведомление об утверждении заявки. Менеджер проверяет, есть ли заказанный товар на складе. При наличии -&amp;nbsp; резервирует. Если товара на складе нет, Менеджер отправляет заявку в отдел Закупок на приобритение товара. &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;8. Сотрудник отдела Закупок, если получил заявку на приобритение товара, создает заказ поставщику &lt;br&gt;&lt;/b&gt;&lt;br&gt;9. После получения товаров от поставщика, Кладовщик проверяет Заявки на данный товар, сообщает Сотруднику о наличии товара. &lt;br&gt;&lt;br&gt;10. Когда Сотрудние приходит за товаком Кладовшик выдает Сотруднику со склада заказанные наименования.”&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EDIQIQE1em6awb2lxte_-3" value="&lt;h1&gt;Задание&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1. Бизнес-процесс в компании выстроен так: &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;2. Сотрудник на портале сотрудника заполняет заявку на потребность, где указывает номенклатуру и необходимое ему количество товара. &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;3. Данная заявка проверяется Менеджером. &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;4. Если Менеджером за 4 часа заявку не взята в работу то в системе она становится приоритетной &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;5. Если Менеджером за 8 часов заявку не взята в работу то отправляется Емейл Супервайсеру менеджера о задержках в обработке Заявок. &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;6. Если Заявка считается не верно составленной то идет запрос Сотруднику на исправление Заявки &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;7. Если заявку подтверждена, Сотрудник получает уведомление об утверждении заявки. Менеджер проверяет, есть ли заказанный товар на складе. При наличии -&amp;nbsp; резервирует. Если товара на складе нет, Менеджер отправляет заявку в отдел Закупок на приобритение товара. &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;8. Сотрудник отдела Закупок, если получил заявку на приобритение товара, создает заказ поставщику &lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;9. После получения товаров от поставщика, Кладовщик проверяет Заявки на данный товар, сообщает Сотруднику о наличии товара. &lt;br&gt;&lt;/b&gt;&lt;br&gt;10. Когда Сотрудние приходит за товаком Кладовшик выдает Сотруднику со склада заказанные наименования.”&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="850" height="350" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-4" value="Задание" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="380" width="3110" height="1260" as="geometry" />
+          <mxGeometry x="40" y="380" width="3690" height="1260" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-5" value="Сотрудник" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="20" width="3110" height="170" as="geometry" />
+          <mxGeometry y="20" width="3690" height="170" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDIQIQE1em6awb2lxte_-5" source="EDIQIQE1em6awb2lxte_-9" target="EDIQIQE1em6awb2lxte_-10">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="340" y="55" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-6" value="Менеджер" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="190" width="3110" height="450" as="geometry" />
+          <mxGeometry y="190" width="3690" height="450" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDIQIQE1em6awb2lxte_-6" source="EDIQIQE1em6awb2lxte_-18" target="EDIQIQE1em6awb2lxte_-22">
           <mxGeometry relative="1" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry x="1890" y="170" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-7" value="Сотрудник отдела закупок" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="640" width="3110" height="310" as="geometry" />
+          <mxGeometry y="640" width="3690" height="310" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDIQIQE1em6awb2lxte_-7" source="EDIQIQE1em6awb2lxte_-167" target="EDIQIQE1em6awb2lxte_-168">
           <mxGeometry relative="1" as="geometry" />
@@ -178,11 +178,25 @@
         <mxCell id="EDIQIQE1em6awb2lxte_-170" value="Созданный заказ&lt;br&gt;для поставщика" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=conditional;" vertex="1" parent="EDIQIQE1em6awb2lxte_-7">
           <mxGeometry x="2190" y="130" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EDIQIQE1em6awb2lxte_-7" source="EDIQIQE1em6awb2lxte_-187" target="EDIQIQE1em6awb2lxte_-193">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2970" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-187" value="Ожидает получение товара" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=timer;" vertex="1" parent="EDIQIQE1em6awb2lxte_-7">
-          <mxGeometry x="2400" y="130" width="50" height="50" as="geometry" />
+          <mxGeometry x="2610" y="130" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDIQIQE1em6awb2lxte_-7" source="EDIQIQE1em6awb2lxte_-193" target="EDIQIQE1em6awb2lxte_-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-193" value="Получает уведомление о получении товара" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=boundInt;symbol=message;" vertex="1" parent="EDIQIQE1em6awb2lxte_-7">
+          <mxGeometry x="3010" y="130" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-194" value="Приходит за товаром к кладомщику" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="EDIQIQE1em6awb2lxte_-7">
+          <mxGeometry x="3220" y="115" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-8" value="Кладовщик" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EDIQIQE1em6awb2lxte_-4">
-          <mxGeometry y="950" width="3110" height="310" as="geometry" />
+          <mxGeometry y="950" width="3690" height="310" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EDIQIQE1em6awb2lxte_-8" source="EDIQIQE1em6awb2lxte_-174" target="EDIQIQE1em6awb2lxte_-175">
           <mxGeometry relative="1" as="geometry" />
@@ -197,7 +211,7 @@
           <mxGeometry x="2460" y="115" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-179" value="Уведомляет сотрудника, что товар у него" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="EDIQIQE1em6awb2lxte_-8">
-          <mxGeometry x="2920" y="60" width="50" height="50" as="geometry" />
+          <mxGeometry x="3010" y="60" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EDIQIQE1em6awb2lxte_-8" source="EDIQIQE1em6awb2lxte_-180" target="EDIQIQE1em6awb2lxte_-182">
           <mxGeometry relative="1" as="geometry" />
@@ -216,6 +230,9 @@
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-183" value="Товар не подтвержден" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;" vertex="1" parent="EDIQIQE1em6awb2lxte_-8">
           <mxGeometry x="2720" y="195" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-196" value="Выдает товар сотруднику по наименованиям" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;" vertex="1" parent="EDIQIQE1em6awb2lxte_-8">
+          <mxGeometry x="3440" y="45" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EDIQIQE1em6awb2lxte_-20" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EDIQIQE1em6awb2lxte_-4" source="EDIQIQE1em6awb2lxte_-10" target="EDIQIQE1em6awb2lxte_-19">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -245,6 +262,15 @@
               <mxPoint x="2290" y="900" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-191" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=none;startArrow=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="EDIQIQE1em6awb2lxte_-4" source="EDIQIQE1em6awb2lxte_-193" target="EDIQIQE1em6awb2lxte_-179">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="3030" y="840" as="sourcePoint" />
+            <mxPoint x="2890" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EDIQIQE1em6awb2lxte_-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EDIQIQE1em6awb2lxte_-4" source="EDIQIQE1em6awb2lxte_-194" target="EDIQIQE1em6awb2lxte_-196">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
