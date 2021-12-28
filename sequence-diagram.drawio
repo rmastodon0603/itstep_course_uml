@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T08:41:08.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="95sf7E-XGrAIUsp1156T" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T08:41:57.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WU24PTBX81iEB_P-TuHi" version="16.1.0" type="github">
   <diagram id="wrtl691SPkGK9H6RK3Ur" name="Page-1">
-    <mxGraphModel dx="677" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KibvoVwVvjOPTluHrOqK-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KibvoVwVvjOPTluHrOqK-5" value="Telegram" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="20" width="30" height="60" as="geometry" />
+        <mxCell id="KibvoVwVvjOPTluHrOqK-8" value="Telegram" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KibvoVwVvjOPTluHrOqK-6" value="Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="20" width="30" height="60" as="geometry" />
+        <mxCell id="KibvoVwVvjOPTluHrOqK-9" value="Wheather Site" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="20" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
